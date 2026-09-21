@@ -84,7 +84,7 @@ Do not separate a chapter's `Data/` folder from its language folders, and do not
 
 ## Authors
 
-<!-- To be completed. -->
+*Andrew Harvey
 
 ## Textbook or reference
 
