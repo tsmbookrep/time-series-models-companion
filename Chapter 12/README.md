@@ -1,4 +1,4 @@
-# Dynamic Conditional Scale Beta-t-EGARCH Model
+# Dynamic Scale Beta-t-EGARCH Model
 
 ## Overview
 
