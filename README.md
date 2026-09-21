@@ -2,12 +2,11 @@
 
 ## Overview
 
-This repository contains the code and data accompanying the chapters of this project. Each chapter is self-contained: its data, MATLAB, R, Python, Python-notebook, and result folders live together. A reader can download the repository, select a chapter, and run its code without editing computer-specific paths.
+This repository contains the code and data accompanying the chapters of the book. Each chapter is self-contained: its data, MATLAB, R, Python, Python-notebook, and result folders live together. A reader can download the repository, select a chapter, and run its code without editing computer-specific paths.
 
 ## Repository structure
 
-The top-level repository is organized by chapter. Every chapter is organized by topic/model. A README file describes the content of every model folder, its files, its dependencies, and the tested software versions. Matlab, Python, R and Python notebook versions of the same code are available.
-
+The top-level repository is organized by chapter. Every chapter is organized by topic/model. A README file describes the content of every model folder, its files, its dependencies, and the tested software versions. 
 ## General workflow
 
 1. Clone or download the repository.
@@ -20,7 +19,7 @@ git clone <repository-url>
 cd <repository-folder>/Chapter-01
 ```
 
-The source files use paths relative to the chapter structure. A complete chapter folder can therefore be moved, copied, or cloned to another computer without modifying paths.
+The source files use paths relative to the model structure. A complete model folder can therefore be moved, copied, or cloned to another computer without modifying paths.
 
 ## Running a chapter
 
