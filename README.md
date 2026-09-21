@@ -6,24 +6,7 @@ This repository contains the code and data accompanying the chapters of this pro
 
 ## Repository structure
 
-The top-level repository is organized by chapter. Every chapter follows this pattern:
-
-```
-<repository-root>/
-  Chapter-01/
-    Data/                 Input data for Chapter 01 only
-    Matlab/               MATLAB main script and helper functions
-    R/                    R main script and helper functions
-    Python/               Python main script and helper modules
-    Python Notebooks/     Self-contained Python Jupyter notebooks
-    Results/              Outputs generated for Chapter 01
-    README.md             Chapter-specific overview and instructions
-  Chapter-02/
-    ...                   Same self-contained structure
-  README.md               This general guide
-```
-
-Each chapter README describes its model, its files, its dependencies, and the tested software versions.
+The top-level repository is organized by chapter. Every chapter is organized by topic/model. A README file describes the content of every model folder, its files, its dependencies, and the tested software versions. Matlab, Python, R and Python notebook versions of the same code are available.
 
 ## General workflow
 
