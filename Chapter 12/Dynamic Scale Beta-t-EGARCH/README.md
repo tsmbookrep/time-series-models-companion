@@ -12,7 +12,6 @@ Matlab/               MATLAB implementation
 R/                    R implementation
 Python/               Python implementation
 Python Notebooks/     Interactive, self-contained Python implementation
-Results/              Estimation outputs created when the code runs
 ```
 
 The language folders contain the following files:
