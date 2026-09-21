@@ -4,7 +4,7 @@
 
 This chapter estimates a univariate dynamic conditional scale model with a Student-t conditional distribution. The conditional log scale evolves through a score-driven EGARCH-type recursion, allowing the model to react to new information and, in the active specification, to negative-return leverage effects. Parameters are estimated by maximum likelihood and the workflow reports fitted scales, standardized residuals, score diagnostics, information criteria, and probability-integral-transform diagnostics.
 
-## Files in this chapter
+## Files in this folder
 
 ```
 Data/                 Equity closing-price series used as model inputs
